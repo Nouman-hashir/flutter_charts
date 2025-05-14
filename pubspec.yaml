@@ -1,4 +1,4 @@
-name: flutter_charts
+name: charts_flutter
 description: Charts Library for Flutter, written in Dart with Flutter. Allows to create line chart and bar chart by specifying data as a simple array.
 # author: Milan Zimmermann <milan.zimmermann@gmail.com> # Google does not like authors.
 homepage: https://github.com/mzimmerm/flutter_charts/
