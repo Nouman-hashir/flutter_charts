@@ -40,6 +40,7 @@ dependencies:
     sdk:  flutter
   # todo-00-done-2025-01-01: decimal: ^3.0.0
   decimal: ^3.0.0
+  intl: ^0.17.0
   vector_math: ^2.1.4
   tuple: ^2.0.2
   google_fonts: ^6.1.0
